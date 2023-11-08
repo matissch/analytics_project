@@ -1,4 +1,4 @@
-country,lat,lon,geometry,index_right,name,id
+country,lat,lon,geometry,index_right,canton,id
 CHE,46.950698,7.3927387,POINT (7.3927387 46.950698),1,Bern/Berne,2
 CHE,46.950698,7.3927387,POINT (7.3927387 46.950698),1,Bern/Berne,2
 CHE,47.139088,7.2473675,POINT (7.2473675 47.139088),1,Bern/Berne,2
