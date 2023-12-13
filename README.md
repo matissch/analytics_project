@@ -18,7 +18,7 @@ To explore the project, follow these steps:
 
 Clone the repository:
    ```bash
-   git clone https://github.com/your-username/analytics_project.git
+   git clone https://github.com/matissch/analytics_project.git
    cd electric-car-charger-switzerland
    ```
 
